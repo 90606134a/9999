@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> My 1st html</title>
+</head>
+<body>
+菊花（學名：Chrysanthemum × morifolium）是菊科菊屬多年生草本植物。別名黃花、黃華、秋菊、陶菊、壽客等。在中國古典文學中及文化中，菊花有著重要的地位，其與梅、蘭、竹合稱四君子。
+<img src="images/1st.jpg">
+<a href="2nd.html">連到第2頁</a>
+<a href="3rd.html">連到第3頁</a>
+<a href="4th.html">連到第4頁</a>
+</body>
+</html>
